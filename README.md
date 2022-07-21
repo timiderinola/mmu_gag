@@ -2,7 +2,7 @@
 Multimedia University Gait Age &amp; Gender Datasets are collected in unconstrained environments. We introduce the gait in the wild (GITW) as the first dataset in the
 Multimedia University Gait Age and Gender datasets (MMU GAG). GITW is naturally diverse with respect to age, race, gender, walking surface, shoe, and dressing. We impose no restrictions based on the scene, age, gender, or ethnicity, except that we restrict the collection to video recordings of healthy individuals walking at a normal pace.
 
-The gait in the wild (GITW) dataset contains video recordings of healthy individuals walking at a normal pace in unconstrained environments. It was collected from public domain online videos. It contains 439 subjects with a clip per subject. Since the videos were collected online, the views and covariate conditions are unconstrained.The subjects were labeled with the apparent gender and age group – child, adult, or senior. The dataset has 219 children, 215 adults, and 219 seniors.
+The gait in the wild (GITW) dataset contains video recordings of healthy individuals walking at a normal pace in unconstrained environments. It was collected from public domain online videos. It contains 439 subjects with a clip per subject. Since the videos were collected online, the views and covariate conditions are unconstrained. The subjects were labeled with the apparent gender and age group – child, adult, or senior. The dataset has 219 children, 215 adults, and 219 seniors. The metadata is available [here](https://github.com/timiderinola/mmu_gag/blob/main/gitw/gait_in_the_wild_meta.csv).
 
 This repository contains the pose sequences of all the subjects obtained using [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose). 
 
