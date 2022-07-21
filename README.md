@@ -8,7 +8,7 @@ This repository contains the pose sequences of all the subjects obtained using [
 
 ## How to use this dataset
 
-To use this dataset in your research, please send an email to [TB](mailto:timiderinola@gmail.com) or [TC](mailto:tee.connie@mmu.edu.my) and we'll send you the dataset release form. Once the form is signed and returned, we will send the current password to the archive. Please note that
+To use this dataset in your research, please send an email to [TB](mailto:timiderinola@gmail.com) or [TC](mailto:tee.connie@mmu.edu.my) and we'll send you the dataset release form. Once the form is signed and returned, we will send the link and password to the dataset archive. Please note that
 
 * This dataset is suitable for gait-based age and/or gender estimation in unconstrained environments.
 * We provide the full body pose sequence of all subjects.
